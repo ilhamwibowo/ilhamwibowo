@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👩‍💻 I'm a passionate Software Engineer trying to make sense of all these technologies.<br>🌱 Currently learning about machine learning, web development, and GPU programming.
+I am an engineer (probably)
 
 
 # 💻 Tech Stack:
